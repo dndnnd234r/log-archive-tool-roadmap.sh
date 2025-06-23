@@ -1,6 +1,5 @@
-# log-archive-tool-roadmap.sh
-
-A beginner project made by roadmap.sh on the Linux Roadmap
+# Log Archive Tool
+A beginner project made by roadmap.sh based on one of the projects from the Linux Roadmap
 
 Inside the file there are step-by-step explanations on how each part works
 
